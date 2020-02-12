@@ -3,7 +3,7 @@
 https://github.com/luckyxiangfeng/IGShareViewDemo
 
 iOS功能弹窗，简单即可实现功能弹窗功能
-
+![](https://github.com/luckyxiangfeng/IGShareViewDemo/blob/master/IGShareViewDemo/shareView.gif)
 
 
 
