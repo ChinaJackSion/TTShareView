@@ -8,7 +8,7 @@ iOS功能弹窗，简单即可实现功能弹窗功能
 
 几行代码即可实现效果：
 
-   TTShareViewItem *item1 = [TTShareViewItem itemWithTitle:@"微信" icon:@"tt_share_wx" handler:^{
+      TTShareViewItem *item1 = [TTShareViewItem itemWithTitle:@"微信" icon:@"tt_share_wx" handler:^{
         
     }];
     
