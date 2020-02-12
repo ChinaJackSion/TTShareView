@@ -1,4 +1,7 @@
 # TTShareView
+参考 IGShareView
+https://github.com/luckyxiangfeng/IGShareViewDemo
+
 iOS功能弹窗，简单即可实现功能弹窗功能
 
 
